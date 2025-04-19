@@ -15,7 +15,9 @@ Pilih tema, apa aja temanya bebas asal ga sama kaya contoh, dan buat web app PHP
 - Harus ada fitur searching berdasarkan nama buku/lainnya
 
 ## Screenshot
-
+![Image](https://github.com/user-attachments/assets/1afdcbb1-913d-4a52-ac08-d0771753efc9)
+![Image](https://github.com/user-attachments/assets/4eb7ca64-6234-4800-bad2-4a88e9a8da56)
+![Image](https://github.com/user-attachments/assets/a8418758-f9e1-48f9-9be2-bbb78e323558)
 
 ## Alur 
 - pada tampilan awal, user dapat melihat list kostume
